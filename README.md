@@ -12,15 +12,16 @@ The program will be run in the latest node.js 0.10.x environment using babel 5.6
 
 ## Title Case Rules:
 
-    Small words (see the list) should not be capitalized (unless a small word is the first or last word).
-    Pieces of hyphenated words should be capitalized separately.
-    Each sentence in the title should be capitalized separately.
-    Titles and Subtitles (separated by ": " — see examples) should be capitalized separately.
-    Email addresses, file names, domains, and URLs should not be altered.
-    Words in camelCase should not be altered.
-    Acronyms (like ESA) should not be altered.
-    Quotation marks and apostrophes may be either ASCII or curly: neither should be altered.
-    Words may contain non-alphabetic characters. For such words, the first alphabetic character should be capitalized according to the other rules above.
+1.    Small words (see the list) should not be capitalized (unless a small word is the first or last word).
+2.    Pieces of hyphenated words should be capitalized separately.
+3.    Each sentence in the title should be capitalized separately.
+4.    Titles and Subtitles (separated by ": " — see examples) should be capitalized separately.
+5.    Email addresses, file names, domains, and URLs should not be altered.
+6.    Words in camelCase should not be altered.
+7.    Acronyms (like ESA) should not be altered.
+8.    Quotation marks and apostrophes may be either ASCII or curly: neither should be altered.
+9.    Words may contain non-alphabetic characters. For such words, the first alphabetic character should be 
+10.   10. capitalized according to the other rules above.
     
 
 ###
@@ -55,11 +56,11 @@ The small words that do not need to be capitalized are:
 
 Examples:
 
-    the œuvre of matisse demonstrates a mastery of color → The Œuvre of Matisse Demonstrates a Mastery of Color
-    my "run-of-the-mill" code works → My "Run-of-the-Mill" Code Works
-    react is cool. the conference called ReactEurope is also cool. → React Is Cool. The Conference Called ReactEurope Is Also Cool.
-    title: a subtitle → Title: A Subtitle
-    color v. colour v. colo(u)r: “a spelling feud” → Color v. Colour v. Colo(u)r: “A Spelling Feud”
-    don't stop reactin' → Don't Stop Reactin'
-    this /w/ord looks fun[ny] → This /W/ord Looks Fun[ny]
+1. the œuvre of matisse demonstrates a mastery of color → The Œuvre of Matisse Demonstrates a Mastery of Color
+2.    my "run-of-the-mill" code works → My "Run-of-the-Mill" Code Works
+3.    react is cool. the conference called ReactEurope is also cool. → React Is Cool. The Conference Called ReactEurope Is Also Cool.
+4.    title: a subtitle → Title: A Subtitle
+5.    color v. colour v. colo(u)r: “a spelling feud” → Color v. Colour v. Colo(u)r: “A Spelling Feud”
+6.    don't stop reactin' → Don't Stop Reactin'
+7.    this /w/ord looks fun[ny] → This /W/ord Looks Fun[ny]
 
